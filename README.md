@@ -1,1 +1,1 @@
-# Insta
+# Instal
