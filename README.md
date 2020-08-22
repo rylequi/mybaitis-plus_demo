@@ -1,1 +1,1 @@
-# Instal
+# Installat
