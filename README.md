@@ -1,1 +1,1 @@
-# Installation gu
+# Installation guid
