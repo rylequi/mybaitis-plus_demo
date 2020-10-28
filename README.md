@@ -1,1 +1,1 @@
-# Installation guid
+# Installation guide
