@@ -1,3 +1,3 @@
 # Installation guide
 
-Com
+Complet
