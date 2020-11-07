@@ -1,3 +1,3 @@
 # Installation guide
 
-Complete g
+Complete guid
