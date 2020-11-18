@@ -1,3 +1,3 @@
 # Installation guide
 
-Complete guide at 
+Complete guide at -
