@@ -1,3 +1,3 @@
 # Installation guide
 
-Complete guide at - https:
+Complete guide at - https://
