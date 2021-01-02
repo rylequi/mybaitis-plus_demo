@@ -1,3 +1,3 @@
 # Installation guide
 
-Complete guide at - https://fossta
+Complete guide at - https://fosstack.
