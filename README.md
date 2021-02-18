@@ -1,3 +1,3 @@
 # Installation guide
 
-Complete guide at - https://fosstack.com/ho
+Complete guide at - https://fosstack.com/how
