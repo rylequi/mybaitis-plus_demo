@@ -1,3 +1,3 @@
 # Installation guide
 
-Complete guide at - https://fosstack.com/how-to-add-google-authentica
+Complete guide at - https://fosstack.com/how-to-add-google-authenticati
