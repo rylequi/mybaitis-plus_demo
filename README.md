@@ -2,4 +2,4 @@
 
 Complete guide at - https://fosstack.com/how-to-add-google-authentication-in-django/
 
-1) Clone repository ```git cl
+1) Clone repository ```git clon
