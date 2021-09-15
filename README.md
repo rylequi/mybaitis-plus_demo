@@ -5,4 +5,4 @@ Complete guide at - https://fosstack.com/how-to-add-google-authentication-in-dja
 1) Clone repository ```git clone https://github.com/mohi7solanki/Google-OAuth-Demo.git```
 2) cd (change directory) to repository. 
 3) Create a virtualenv ``` virtualenv -p python3 . ```
-4) Activ
+4) Activat
