@@ -6,4 +6,4 @@ Complete guide at - https://fosstack.com/how-to-add-google-authentication-in-dja
 2) cd (change directory) to repository. 
 3) Create a virtualenv ``` virtualenv -p python3 . ```
 4) Activate virtualenv ``` source bin/activate  ```
-5) Install required packages ``` pi
+5) Install required packages ``` pip3
