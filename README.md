@@ -10,4 +10,4 @@ Complete guide at - https://fosstack.com/how-to-add-google-authentication-in-dja
 6) Make migration ``` python manage.py migrate  ```
 7) Run the server ``` python manage.py runserver  ```
 
-### Note : Make Sure to add Go
+### Note : Make Sure to add Goog
