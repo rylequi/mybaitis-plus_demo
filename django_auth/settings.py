@@ -27,3 +27,4 @@ SECRET_KEY = '6+@wfiy6uxgap1c)+^lk^02a=!yud0t46!npca+tkk$+jgx7_m'
 DEBUG = True
 
 ALLOWED_HOSTS = []
+
