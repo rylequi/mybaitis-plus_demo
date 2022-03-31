@@ -41,3 +41,5 @@ INSTALLED_APPS = [
     'social_django' # <- Here
 
 ]
+
+MIDDLEWARE = [
