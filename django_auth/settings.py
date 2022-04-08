@@ -53,3 +53,6 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'django_auth.urls'
+
+TEMPLATES = [
+    {
