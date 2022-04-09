@@ -56,3 +56,4 @@ ROOT_URLCONF = 'django_auth.urls'
 
 TEMPLATES = [
     {
+        'BACKEND': 'django.template.backends.django.DjangoTemplates',
