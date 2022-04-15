@@ -73,3 +73,6 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'django_auth.wsgi.application'
+
+
+# Database
