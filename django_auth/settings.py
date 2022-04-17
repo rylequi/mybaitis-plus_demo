@@ -79,3 +79,4 @@ WSGI_APPLICATION = 'django_auth.wsgi.application'
 # https://docs.djangoproject.com/en/1.11/ref/settings/#databases
 
 DATABASES = {
+    'default': {
