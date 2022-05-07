@@ -131,3 +131,4 @@ LOGIN_REDIRECT_URL = 'home'
 AUTHENTICATION_BACKENDS = (
  'social_core.backends.open_id.OpenIdAuth',
  'social_core.backends.google.GoogleOpenId',
+ 'social_core.backends.google.GoogleOAuth2',
