@@ -5,3 +5,5 @@ from django.contrib.auth import views
 from .views import home
 
 urlpatterns = [
+    url(r'^admin/', admin.site.urls),
+    url(r'^login/$', views.login, name='login'),
