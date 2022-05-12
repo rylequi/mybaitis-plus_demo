@@ -10,3 +10,4 @@ urlpatterns = [
     url(r'^logout/$', views.logout, name='logout'),
     url(r'^auth/', include('social_django.urls', namespace='social')),  # <- Here
     url(r'^$', home, name='home'),
+]
