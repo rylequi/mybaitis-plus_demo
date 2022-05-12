@@ -7,3 +7,5 @@ from .views import home
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^login/$', views.login, name='login'),
+    url(r'^logout/$', views.logout, name='logout'),
+    url(r'^auth/', include('social_django.urls', namespace='social')),  # <- Here
