@@ -1,2 +1,2 @@
 """
-WSG
+WSGI c
