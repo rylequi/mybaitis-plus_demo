@@ -1,2 +1,2 @@
 """
-WSGI conf
+WSGI config
