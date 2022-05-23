@@ -1,2 +1,2 @@
 """
-WSGI config fo
+WSGI config for d
