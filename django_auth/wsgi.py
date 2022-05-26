@@ -1,2 +1,2 @@
 """
-WSGI config for d
+WSGI config for dja
