@@ -1,2 +1,2 @@
 """
-WSGI config for django_auth 
+WSGI config for django_auth pr
