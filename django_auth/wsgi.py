@@ -1,2 +1,2 @@
 """
-WSGI config for django_
+WSGI config for django_aut
