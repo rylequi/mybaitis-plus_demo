@@ -1,4 +1,4 @@
 """
 WSGI config for django_auth project.
 
-It expo
+It expos
