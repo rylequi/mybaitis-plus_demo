@@ -1,4 +1,4 @@
 """
 WSGI config for django_auth project.
 
-It exposes the WSGI call
+It exposes the WSGI calla
