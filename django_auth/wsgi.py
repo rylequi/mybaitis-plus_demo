@@ -1,4 +1,4 @@
 """
 WSGI config for django_auth project.
 
-It exposes the WSGI callable as a module-level variab
+It exposes the WSGI callable as a module-level variabl
