@@ -19,3 +19,4 @@ if __name__ == "__main__":
                 "available on your PYTHONPATH environment variable? Did you "
                 "forget to activate a virtual environment?"
             )
+        raise
